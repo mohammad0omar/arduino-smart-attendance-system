@@ -1,5 +1,8 @@
 # arduino-smart-attendance-system
-an arduino based attendance system connected to wifi with a biomertic sensor (fingerprint)
+an arduino based attendance system connected to wifi with a biomertic sensor (fingerprint) 
+ 
+ # android app
+ for the arduino app we ve used the blynk app https://blynk.cc/
 
 # video
 [![](http://img.youtube.com/vi/cbO8QLPFEUc/0.jpg)](http://www.youtube.com/watch?v=cbO8QLPFEUc "")
